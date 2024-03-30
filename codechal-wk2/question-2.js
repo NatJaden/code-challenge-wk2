@@ -11,5 +11,5 @@ function generetedNumberRange(num1, num2) {
   }
   return generetedArr;
 }
-const arr1 = generetedNumberRange(-100, 7);
-console.log(arr1);
+
+console.log(generetedNumberRange(-100, 7));
